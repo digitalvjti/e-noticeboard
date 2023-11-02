@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67688991732",
+    "project_id": "vjtinoticeboard",
+    "storage_bucket": "vjtinoticeboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67688991732:android:30d743694bc68e423cc7a1",
+        "android_client_info": {
+          "package_name": "com.example.e_noticeboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIJ1welauRYPqH_BgdPftKValawZFa2wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
